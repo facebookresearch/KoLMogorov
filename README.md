@@ -1,6 +1,6 @@
 # The KoLMogorov-Test
 
-Official repository for the paper [*"The KoLMogorov Test: Compression by Code Generation"*](https://openreview.net/forum?id=C45YqeBDUM).
+Official repository for the paper [*"The KoLMogorov Test: Compression by Code Generation"*](https://openreview.net/forum?id=C45YqeBDUM)
 
 The Kolmogorov complexity of a sequence is the length of the shortest computer program that produces the sequence.
 
