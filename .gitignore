@@ -1,0 +1,23 @@
+venv/*
+# Bytecode files
+*.pyc
+__pycache__/
+# Virtual environment files
+env/
+venv/
+# IDE and editor files
+.idea/
+.vscode/
+.pycharm/
+# Build and distribution files
+dist/
+build/
+egg-info/
+# Test and coverage files
+tests/
+coverage/
+# Documentation files
+docs/
+# Miscellaneous files
+*.log
+*.tmp
