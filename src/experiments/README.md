@@ -15,4 +15,4 @@ To train your own `SeqCoder` models, please see our training input-output pairs 
 
 For latest detials and for making new submissions, please refer to the [official KT leaderboard](https://huggingface.co/spaces/KoLMogorov-Test/Leaderboard).
 
-We provide code to reproduce experimetns from the paper in our our [evaluation source code](evaluation). The [`post_process_and_evaluate.py`](evaluation/post_process_and_evaluate.py) script has two main components - (a) executing the generated programs (using [`post_process_programs.py`](evaluation/post_process_programs.py)) and calculating the evaluation metrics (using [`evaluate.py`](evaluation/evaluate.py)).
+We provide code to reproduce experiments from the paper in our our [evaluation source code](evaluation). The [`post_process_and_evaluate.py`](evaluation/post_process_and_evaluate.py) script has two main components - (a) executing the generated programs (using [`post_process_programs.py`](evaluation/post_process_programs.py)) and calculating the evaluation metrics (using [`evaluate.py`](evaluation/evaluate.py)).
